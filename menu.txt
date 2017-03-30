@@ -13,3 +13,5 @@ SEGUNDO PLATOS
 Agua
 Pan
 Cafe o Postre
+
+Precio: 12 euros (IVA INCLUIDO)
