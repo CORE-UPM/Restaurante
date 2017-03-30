@@ -1,6 +1,11 @@
 BEBIDAS
 
 SIN ALCOHOL
+- Coca Cola
+- Casera
+- Cerveza 0.0
 
 CON ALCOHOL
-
+- Cerveza Heineken
+- Cerveza Mahou
+- Vino de la casa
