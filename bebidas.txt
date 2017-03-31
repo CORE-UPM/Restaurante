@@ -2,6 +2,7 @@ BEBIDAS DEL MENU
 
 SIN ALCOHOL
 - Coca Cola Light
+- Coca Cola Zero
 - Casera
 - Cerveza 0.0
 
@@ -11,3 +12,7 @@ CON ALCOHOL
 - Vino de la casa
 
 Precio: Incluido con el menu.
+
+Si bebes no conduzcas.
+
+
