@@ -9,3 +9,5 @@ CON ALCOHOL
 - Cerveza Heineken
 - Cerveza Mahou
 - Vino de la casa
+
+Precio: Incluido con el menu.
