@@ -1,7 +1,7 @@
 BEBIDAS DEL MENU
 
 SIN ALCOHOL
-- Coca Cola
+- Coca Cola Light
 - Casera
 - Cerveza 0.0
 
